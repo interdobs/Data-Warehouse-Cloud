@@ -32,4 +32,6 @@ Status >> Deployed
 
 2. View “MON_LOCK_TASK_DETAILS” is a new view with a list of all locked Jobs and the underlying details. It checks jobs which are still running and therefore are reponsible for locking other jobs. View looks at the tasks that are causing locks in the system and collects the messages of the latest failed task related to the same application/space/object combination in DWC
 
+3. View ..... 
+
 
