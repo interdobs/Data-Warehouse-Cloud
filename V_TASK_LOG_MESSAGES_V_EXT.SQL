@@ -1,0 +1,15 @@
+SELECT   1  as counter, 
+base."TASK_LOG_ID",
+"MESSAGE_NO",
+"SEVERITY",
+"TEXT",
+"DETAILS" ,
+"SPACE_ID",
+"APPLICATION_ID",
+"OBJECT_ID",
+"ACTIVITY",
+"STATUS",	
+to_date(base."START_DATE") "START_DATE“
+FROM "TASK_LOGS_V_EXT" as base
+LEFT outer JOIN 	"TASK_LOG_MESSAGES_V_EXT" as log		
+ON base."TASK_LOG_ID" = log."TASK_LOG_ID"
