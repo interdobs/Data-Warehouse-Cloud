@@ -3,7 +3,7 @@ Data Warehouse Cloud Technical Content
 
 Based on Olaf Fischer's excellent content which can be found here:  https://blogs.sap.com/2021/10/12/sap-data-warehouse-cloud-data-integration-monitoring-sample-content-for-reporting/
 
-See our blog on SCN for additional 
+See our blog on SCN for additional details:
 
 https://blogs.sap.com/2021/11/24/sap-data-warehouse-cloud-data-integration-monitoring-addition-to-sample-content-for-reporting/
 
