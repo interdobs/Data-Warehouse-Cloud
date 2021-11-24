@@ -35,5 +35,5 @@ Have fun!
 
 Odin van Doorn
 Bas Visser
-Eric van Winden
+Erik van Winden
 Ronald Konijnenburg
